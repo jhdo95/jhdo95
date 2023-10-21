@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🚀
+# Welcome to My GitHub Profile! 🌌
 
  I'm Jonathan Do, a passionate software engineer based in the vibrant tech hub of Orange County, California. With a diverse skill set spanning JavaScript, HTML, CSS, Python, and SQL, I thrive on delivering seamless user experiences through my expertise in React, Express.js, Django, and Bootstrap.
 
@@ -22,4 +22,4 @@ Contact Me
 
 Let's get in touch and foster something incredible together! Don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/jhdo95) or via email at jhdo95@gmail.com.
 
-Eagerly looking forward to embarking on exciting opportunities with you! 🌟
+Eagerly looking forward to embarking on exciting opportunities with you! 🔥
