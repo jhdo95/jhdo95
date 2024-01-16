@@ -22,6 +22,6 @@ Contact Me
 
 Let's get in touch and foster something incredible together! Don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/jhdo95) or via email at jhdo95@gmail.com.
 
-[Download Resume](https://github.com/jhdo95/jhdo95/blob/main/Jonathan%20Do%20Resume%202024.pdf)
+[Download My Resume](https://github.com/jhdo95/jhdo95/blob/main/Jonathan%20Do%20Resume%202024.pdf)
 
 Eagerly looking forward to embarking on exciting opportunities with you! 🔥
