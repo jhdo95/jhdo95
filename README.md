@@ -10,10 +10,10 @@ Projects
 
 Here are some highlights of the projects I've passionately brought to life:
 
-- [War]( https://jhdo95.github.io/War/) - The Card game
-- TuneHub - Songs Playlist
-- The Draft - Discussion Forum
-- Valorant Agent Selector
+- [War]( https://jhdo95.github.io/War/) - [The Card game](https://github.com/jhdo95/War)
+- [TuneHub](https://tunehub2-447c762f3ea1.herokuapp.com) - [Songs Playlist](https://github.com/jhdo95/songs-project)
+- [The Draft](https://thedraft-theebuggers-823b566ea1e8.herokuapp.com/) - [Discussion Forum](https://github.com/jhdo95/thedraft)
+- [Valorant Agent Selector](https://valorant-agent-selector-b4f3e0175a4a.herokuapp.com/) - [Randomized Agent Recommender](https://github.com/jhdo95/valorant-agent-selector)
 
 Feel free to explore my repositories to delve deeper into these and more exciting projects!
 
