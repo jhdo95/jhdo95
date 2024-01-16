@@ -10,7 +10,7 @@ Projects
 
 Here are some highlights of the projects I've passionately brought to life:
 
-- War - The Card game
+- [War]( https://jhdo95.github.io/War/) - The Card game
 - TuneHub - Songs Playlist
 - The Draft - Discussion Forum
 - Valorant Agent Selector
