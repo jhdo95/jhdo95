@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🌌
 
- I'm Jonathan Do, a passionate software engineer based in the vibrant tech hub of Orange County, California. With a diverse skill set spanning JavaScript, HTML, CSS, Python, and SQL, I thrive on delivering seamless user experiences through my expertise in React, Express.js, Django, and Bootstrap.
+ Hello, friends, the name's Jonathan Do! I'm a software engineer who discovered his love for code later in life. I acquired a variety of tech skills during my time at General Assembly, and I strive to become the best version of myself in all aspects of life. Life's too short to not be happy, so let's enjoy it to the fullest and build amazing things! I'd especially love to work at a startup on a tight knit and diverse team where I can make an impact quickly. If you're hiring, or know somebody who is, let's chat!
 
 About Me
 
